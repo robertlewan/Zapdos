@@ -593,6 +593,33 @@
 			"def": "300",
 			"sp-atk": "739",
 			"sp-def": "200"
+		},
+		{
+			"name": "blastoise",
+			"sprite": "https://www.serebii.net/pokemonunite/pokemon/009.png",
+			"evolution": "lvl 5 => lvl 9",
+			"style": "Ranged",
+			"attack-dmg": "Special",
+			"basic": "Physical, 293 dmg",
+			"boosted": "Special, 726 dmg",
+			"role": "Defender",
+			"price": "8,000 coins, 460 gems",
+			"ability": "Torrent: When the Pokémon is at half HP or less, its Attack and Sp. Atk are increased.",
+			"move1": "Water Gun",
+			"move1-upg-lvl": "5",
+			"move1.1": "Hydro Pump",
+			"move1.2": "Water Spout",
+			"move2": "Skull Bash",
+			"move2-upg-lvl": "7",
+			"move2.1": "Surf",
+			"move2.2": "Rapid Spin",
+			"unite": "Hydro Typhoon, activates at level 9",
+			"speed": "3700",
+			"hp": "9800",
+			"atk": "293",
+			"def": "599",
+			"sp-atk": "412",
+			"sp-def": "420"
 		}
 	]	
 }

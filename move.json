@@ -1,0 +1,300 @@
+{
+	"move_details": [
+		{
+			"name": "seed bomb",
+			"type": "Ranged",
+			"dmg-type": "Special",
+			"description": "Hurls a large seed at the designated area, dealing damage to opposing Pokémon in the area of effect.",
+			"dmg": 859,
+			"cd": 6,
+			"upgrade": "lvl 5 - to Sludge Bomb or Giga Drain",
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaurseedbomb.png",
+			"isUnite": false
+		},
+		{
+			"name": "sludge bomb",
+			"type": "Ranged",
+			"dmg-type": "Special",
+			"description": "Hurls unsanitary sludge to the designated area, dealing damage over time to opposing Pokémon in the area of effect and decreasing their movement speed and Sp. Def for a short time",
+			"dmg": 1529,
+			"cd": 6,
+			"upgrade": "lvl 11 - increase area of effect",
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaursludgebomb.png",
+			"isUnite": false
+		},
+		{
+			"name": "gigan drain",
+			"type": "Recovery",
+			"dmg-type": "Special",
+			"description": "Hurls unsanitary sludge to the designated area, dealing damage over time to opposing Pokémon in the area of effect and decreasing their movement speed and Sp. Def for a short time",
+			"dmg": 1153,
+			"cd": 7,
+			"upgrade": "lvl 13 - increase the amount of HP restored",
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaurgigadrain.png",
+			"isUnite": false
+		},
+		{
+			"name": "razor leaf",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Launches many sharp-edged leaves in a quick succession of attacks, dealing damage to opposing Pokémon in the area of effect.",
+			"dmg": 2610,
+			"cd": 9,
+			"upgrade": "lvl 7 - to Solar Beam or Petal Dance",
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaurrazorleaf.png",
+			"isUnite": false
+		},
+		{
+			"name": "solar beam",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Blasts a bundled beam of light, dealing damage to opposing Pokémon in the area of effect.",
+			"dmg": 7790,
+			"cd": 11,
+			"upgrade": "lvl 10 - reduce time charging and reduce cooldown",
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaursolarbeam.png",
+			"isUnite": false
+		},
+		{
+			"name": "petal dance",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Scatters petals around the user, increasing movement speed for a short time and dealing damage over time to opposing Pokémon in the area of effect.",
+			"dmg": 2256,
+			"cd": 11,
+			"upgrade": "lvl 11 - increase area of effect",
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaurpetaldance.png",
+			"isUnite": false
+		},
+		{
+			"name": "verdant anger",
+			"type": "Area",
+			"description": "Launches a giant seed toward the designated area. The seed then splits apart, dealing damage to opposing Pokémon in the area of effect and decreasing their movement speed for a short time.",
+			"dmg": 2662,
+			"img": "https://www.serebii.net/pokemonunite/moves/venusaurverdantanger.png",
+			"isUnite": true
+		},
+		{
+			"name": "flame burst",
+			"type": "Ranged",
+			"dmg-type": "Physical",
+			"description": "Attacks with a bursting flame, leaving opposing Pokémon burned.",
+			"dmg": 658,
+			"cd": 6,
+			"upgrade": "lvl 5 - to Flamethrower or Fire Punch",
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardflameburst.png",
+			"isUnite": false
+		},
+		{
+			"name": "flamethrower",
+			"type": "Ranged",
+			"dmg-type": "Physical",
+			"description": "Attacks with an intense blast of fire, leaving opposing Pokémon burned.",
+			"dmg": 1162,
+			"cd": 7,
+			"upgrade": "lvl 5.5 - increase damage",
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardflamethrower.png",
+			"isUnite": false
+		},
+		{
+			"name": "fire punch",
+			"type": "Dash",
+			"dmg-type": "Physical",
+			"description": "Attacks with a heavy punch and unleashes damage. It can burn Pokémon pushed back by it",
+			"dmg": 1877,
+			"cd": 6,
+			"upgrade": "lvl 11 - reduce cooldown every time a basic attack hit",
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardfirepunch.png",
+			"isUnite": false
+		},
+		{
+			"name": "fire spin",
+			"type": "Area",
+			"dmg-type": "Physical",
+			"description": "Encircles opposing Pokémon in the area of effect with a vortex of fire, also decreasing their movement speed for a short time.",
+			"dmg": 2043,
+			"cd": 10,
+			"upgrade": "lvl 7 - to Fire Blast or Flare Blitz",
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardfirespin.png",
+			"isUnite": false
+		},
+		{
+			"name": "fire blast",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Blass intense, all-consuming fire, dealing damage over time to opposing Pokémon while the flames continue to burn on the ground and decreasing the movement speed of opposing Pokémon for a short time.",
+			"dmg": 3555,
+			"cd": 11,
+			"upgrade": "lvl 8 - increase damage",
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardfireblast.png",
+			"isUnite": false
+		},
+		{
+			"name": "flare blitz",
+			"type": "Dash",
+			"dmg-type": "Physical",
+			"description": "Charges forward cloaked in fire, throwing opposing Pokémon. This also grants the user a shield.",
+			"dmg": 1085,
+			"cd": 10,
+			"upgrade": "lvl 13 - decrease movement speed of opposing Pokemon for a short time when they are thrown by this move",
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardflareblitz.png",
+			"isUnite": false
+		},
+		{
+			"name": "seismic slam",
+			"type": "Sure hit",
+			"description": "Flies into the air and shoots down attacks. Ends with a grab of the opponent and throwing them to the ground",
+			"dmg": null,
+			"img": "https://www.serebii.net/pokemonunite/moves/charizardseismicslam.png",
+			"isUnite": true
+		},
+		{
+			"name": "thunder shock",
+			"type": "Sure hit",
+			"dmg-type": "Special",
+			"description": "Releases electricity, dealing damage to opposing Pokémon in the area of effect. Also paralyzes opposing Pokémon for a short time.",
+			"dmg": 1307,
+			"cd": 5,
+			"upgrade": "lvl 4 - to Electro Ball or Thunder",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthundershock.png",
+			"isUnite": false
+		},
+		{
+			"name": "electro ball",
+			"type": "Sure hit",
+			"dmg-type": "Physical",
+			"description": "Hurls an electric orb, dealing damage to opposing Pokémon in the area of effect and leaving them paralyzed for a short time. This move's damage increases the lower the opposing Pokémon's remaining HP is",
+			"dmg": 1869,
+			"cd": 5,
+			"upgrade": "lvl 11 - increase damage",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuelectroball.png",
+			"isUnite": false
+		},
+		{
+			"name": "thunder",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Drops wicked thunderbolts, dealing damage to opposing Pokémon in the area of effect.",
+			"dmg": 2947,
+			"cd": 8,
+			"upgrade": "lvl 11 - increase the number of time this move attacks.",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthunder.png",
+			"isUnite": false
+		},
+		{
+			"name": "electrowebb",
+			"type": "Hindrance",
+			"dmg-type": "Special",
+			"description": "Attacks and captures opposing Pokémon using an electric net, leaving them unable to move.",
+			"dmg": 847,
+			"cd": 9,
+			"upgrade": "lvl 6 - to Volt Tackle or Thunderbolt",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuelectroweb.png",
+			"isUnite": false
+		},
+		{
+			"name": "volt tackle",
+			"type": "Hindrance",
+			"dmg-type": "Special",
+			"description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon",
+			"dmg": 1015,
+			"cd": 10,
+			"upgrade": "lvl 13 - reduce cooldown",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuvolttackle.png",
+			"isUnite": false
+		},
+		{
+			"name": "thunderbolt",
+			"type": "Hindrance",
+			"dmg-type": "Special",
+			"description": "Attacks with a strong electric blast, dealing damage to opposing Pokémon in the area of effect and leaving them unable to act.",
+			"dmg": 1358,
+			"cd": 8,
+			"upgrade": "lvl 13 - increase damage",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthunderbolt.png",
+			"isUnite": false
+		},
+		{
+			"name": "thunderstorm",
+			"type": "Area",
+			"description": "Attacks opposing Pokémon near the user with tremendous bolts of lightning.",
+			"dmg": 4388,
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthunderstorm.png",
+			"isUnite": true
+		},
+		{
+			"name": "Powder Snow",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Attacks with a chilly gust of powdery snow, decreasing the movement speed of opposing Pokémon for a short time when it hits.",
+			"dmg": 1166,
+			"cd": 5,
+			"upgrade": "lvl 4 - to Avalance or Dazzling Gleam",
+			"img": "https://www.serebii.net/pokemonunite/moves/alolanninetalespowdersnow.png",
+			"isUnite": false
+		},
+		{
+			"name": "electro ball",
+			"type": "Sure hit",
+			"dmg-type": "Physical",
+			"description": "Hurls an electric orb, dealing damage to opposing Pokémon in the area of effect and leaving them paralyzed for a short time. This move's damage increases the lower the opposing Pokémon's remaining HP is",
+			"dmg": 1869,
+			"cd": 5,
+			"upgrade": "lvl 11 - increase damage",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuelectroball.png",
+			"isUnite": false
+		},
+		{
+			"name": "thunder",
+			"type": "Area",
+			"dmg-type": "Special",
+			"description": "Drops wicked thunderbolts, dealing damage to opposing Pokémon in the area of effect.",
+			"dmg": 2947,
+			"cd": 8,
+			"upgrade": "lvl 11 - increase the number of time this move attacks.",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthunder.png",
+			"isUnite": false
+		},
+		{
+			"name": "electrowebb",
+			"type": "Hindrance",
+			"dmg-type": "Special",
+			"description": "Attacks and captures opposing Pokémon using an electric net, leaving them unable to move.",
+			"dmg": 847,
+			"cd": 9,
+			"upgrade": "lvl 6 - to Volt Tackle or Thunderbolt",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuelectroweb.png",
+			"isUnite": false
+		},
+		{
+			"name": "volt tackle",
+			"type": "Hindrance",
+			"dmg-type": "Special",
+			"description": "Has the user electrify itself and charge ahead, throwing opposing Pokémon",
+			"dmg": 1015,
+			"cd": 10,
+			"upgrade": "lvl 13 - reduce cooldown",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuvolttackle.png",
+			"isUnite": false
+		},
+		{
+			"name": "thunderbolt",
+			"type": "Hindrance",
+			"dmg-type": "Special",
+			"description": "Attacks with a strong electric blast, dealing damage to opposing Pokémon in the area of effect and leaving them unable to act.",
+			"dmg": 1358,
+			"cd": 8,
+			"upgrade": "lvl 13 - increase damage",
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthunderbolt.png",
+			"isUnite": false
+		},
+		{
+			"name": "thunderstorm",
+			"type": "Area",
+			"description": "Attacks opposing Pokémon near the user with tremendous bolts of lightning.",
+			"dmg": 4388,
+			"img": "https://www.serebii.net/pokemonunite/moves/pikachuthunderstorm.png",
+			"isUnite": true
+		},
+	]
+}
