@@ -41,7 +41,6 @@ async def on_message(message):
 
 			embed.set_image(url=pkm_info["sprite"])
 			
-
 			embed.add_field(name="Evolution", value=pkm_info["evolution"], inline=True)
 			embed.add_field(name="Style", value=pkm_info["style"], inline=True)
 			embed.add_field(name="Attack damage", value=pkm_info["attack-dmg"], inline=True)
@@ -90,6 +89,16 @@ async def on_message(message):
 			await message.channel.send(embed=embed)
 		else: 
 			await message.channel.send("Oops, that doesn't look like a Pokemon.")
-	# elif message.content.startswith('?stats'):
+	elif message.content.startswith('?build'):
+		pkm = message.content.lower()[7:]
+		pkm_info = get_pkm_info(pkm)
+
+		if pkm_info != None:
+
+			await message.channel.send(pkm_info["build"])
+
+	elif message.content == '?gián':
+		await message.channel.send('Rác')
+			
 
 client.run(my_token)
